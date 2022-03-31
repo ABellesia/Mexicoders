@@ -1,4 +1,4 @@
-Documentar un proyeto: ¿cómo y por qué?
+# Documentar un proyecto: ¿cómo y por qué?
 
 ## Descripción breve
 
