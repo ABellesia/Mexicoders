@@ -37,3 +37,32 @@ Aquellas personas que deseen contribuir, leer o implementar nuestro código podr
 
 Al documentar un proyecto, debemos asegurarnos de dar a los usuarios toda la información que pudieran necesitar, sin que sea demasiada (*Write the docs*, s.f.). Algunos elementos importantes que debería tener la documentación se pueden ver representados en el Diagrama 1.
 
+![](https://github.com/ABellesia/Mexicoders/blob/main/Diagrama1.PNG)
+
+Al igual que con los códigos que desarrollamos, buscamos que la documentación se presente en un formato de texto simple, como lo podría ser Markdown. Este formato de texto te permite mostrar toda la información sobre tu proyecto de manera sencilla, clara y organizada. Además, a diferencia de otros editores de texto, te permite incluir apoyos visuales como bloques de código.
+
+### Cómo utilizar Markdown en GitHub
+
+Dado que el formato que utiliza Markdown es diferente al de otros editores de texto, es necesario conocer un poco acerca de este lenguaje antes de empezar a escribir un README.
+
+```markdown
+# Esto se convertirá en un título 
+## Este título tendrá menor jerarquía que el anterior
+
+* También se pueden agregar listas con "bullets".
+* Los asteriscos nos permiten crear las listas.
+
+1. Igualmente existen listas numeradas
+2. Únicamente debemos escribir los números. 
+
+Para dar estilo a las palabras: 
+* **Negritas**
+* *Cursiva*
+* <u>Subrayado</u>
+
+`Esto se verá como un pequeño bloque de código`
+```
+
+## Referencias
+
+- *A beginner’s guide to writing documentation — Write the Docs*. (s. f.). Write the Docs. Recuperado 28 de marzo de 2022, de https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/
